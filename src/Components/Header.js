@@ -12,8 +12,8 @@ class Header extends Component {
     const description = this.props.data.description;
 
     return (
-      <header id="home">
-        <ParticlesBg type="circle" bg={true} />
+      <header id="home" className="home">
+        {/* <ParticlesBg type="circle" bg={true} /> */}
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">

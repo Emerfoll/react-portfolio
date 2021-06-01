@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"CHRIS EMERFOLL",
-    "description":"I am a web development engineer.  I use react and JavaScript to develop modern and next level web applications",
+    "description":"I am a Full-Stack Web Development Engineer.  I use react and JavaScript to develop modern and next level web applications",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -16,7 +16,7 @@
       "zip": "55401"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"http://emerfoll.academy",
     "social":[
       {
         "name":"facebook",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Most of my skill as of now is react based but I am working on other languages as well.",
     "education":[
       {
         "school":"Prime Digital Academy",

@@ -30,6 +30,7 @@ class Resume extends Component {
 
     const work = this.props.data.work.map(function (work) {
       return (
+        <Slide left duration={1300}>
         <div key={work.company}>
           <h3>{work.company}</h3>
           <p className="info">
@@ -41,6 +42,7 @@ class Resume extends Component {
           {work.description3 ?  <p>{work.description3}</p> : null}
           {work.description4 ?  <p>{work.description4}</p> : null}
         </div>
+        </Slide>
       );
     });
 
