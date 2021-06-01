@@ -16,7 +16,7 @@ class Footer extends Component {
     });
 
     return (
-      <footer>
+      <footer className="footer">
         <div className="row">
           <Fade bottom>
             <div className="twelve columns">
