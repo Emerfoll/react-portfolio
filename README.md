@@ -1,4 +1,4 @@
-# React Nice Resume :page_with_curl:
+# React Resume :page_with_curl:
 
 ### [LIVE PAGE](https://emerfoll.academy/)
 
