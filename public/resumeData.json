@@ -3,7 +3,7 @@
     "name":"CHRIS EMERFOLL",
     "description":"I am a Full-Stack Web Development Engineer.  I use react and JavaScript to develop modern and next level web applications",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am thrilled to be breaking into the world of creating and web development. Getting into an ever changing field where there is always room to grow and keep learning has been a goal of mine for many years now and I can not wait to see what exciting challenges and opportunities are waiting for me. During the day you will find me programming and working on projects but at night… I guess you will still find me programming, BUT when I’m not programming you can find me paddle boarding out on the lakes, rock climbing, playing card games, or just hanging out at home watching youtube with my cat and dog. At the end of the day I am pretty laid back about most things and always looking for the best way to get things done. I enjoy work that challenges me to think outside my comfort zone and try new things. I get very passionate about my projects but also about relaxing and taking time off, because if you don’t take care of yourself, it’s hard to help and take care of others.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "cemerfoll@gmail.com",
     "phone": "763-225-7536",
@@ -16,7 +16,7 @@
       "zip": "55401"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://emerfoll.academy",
+    "resumedownload":"Chris Emerfoll Software-Developer Resume.pdf",
     "social":[
       {
         "name":"facebook",
@@ -46,7 +46,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Most of my skill as of now is react based but I am working on other languages as well.",
+    "skillmessage":"Most of my skills, as of now, are JavaScript and React based but I am working on other languages and frameworks.",
     "education":[
       {
         "school":"Prime Digital Academy",
@@ -114,12 +114,16 @@
         "level":"90%"
       },
       {
-        "name":"ReactJs",
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"React.Js",
         "level":"75%"
       },
       {
         "name":"ReactNative",
-        "level":"60%"
+        "level":"55%"
       },
       
       {
