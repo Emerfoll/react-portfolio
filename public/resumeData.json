@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"CHRIS EMERFOLL",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages.",
+    "description":"I am a web development engineer.  I use react and JavaScript to develop modern and next level web applications",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -49,30 +49,59 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Prime Digital Academy",
+        "degree":"Full-Stack Software Engineering Certificarion",
+        "graduated":"March 2021",
+        "description":"Prime is a program to help students learn to become full-stack web developers. Through Prime I was able to learn: React, Javascript, Git/GitHub, jQuery, Node.js, Express.js, HTML/CSS, Bootstrap, Material-UI servers-side technologies and many other technology tools."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Prime Digital Academy",
+        "title":"Full-Stack Software Engineering Student",
+        "years":"October 2020 - March 2021",
+        "description":"Solo Project: Beer Book - (link below in portfolio) - For our solo projects we got to pick whatever we wanted and make a C.R.U.D. application for it. For my solo project I created a full-stack web application for users (beer lovers) to find, add, and track different kinds of beers they have tried and whether or not they enjoyed them. Technologies used: PostgreSQL, Express.js, ReactJS, Node.js, Passport.js, Redux, Redux-Saga, CSS, Material-UI, Heroku",
+        "description2": "Group Project: SnowSwaps - (link below in portfolio) - The group project was our capstone project. As a group of four we took on a real client to designed and created the app they asked us to build. My group was tasked with creating a Mobile-friendly online marketplace for members of snow-loving communities to buy, sell, or browse used snow-sport equipment. Technologies used: PostgreSQL, Express.js, ReactJS, Node.js, NodeMailer.js, Passport.js, Redux, Redux-Saga, CSS, Material-UI, Heroku"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Ehome LLC",
+        "title":"Senior Computer Technician",
+        "years":"May 2017 - November 2020",
+        "description":"Collaborated with other Senior Technicians to resolve workflow issues, production speed, and traceability on units processed.",
+        "description2": "Designed a program to track and examine the quality of all repairs performed by Apple or other “out-of-house” companies.",
+        "description3": "Performed more complicated hardware repairs on computers. Replaced components on computers like screens, LogicBoards, ports, and other non-user replaceable parts.",
+        "description4": "Interfaced with a diverse customer base multiple times daily to find the right products and resolve issues."
+      
+      },
+      {
+        "company":"Cummins Inc.",
+        "title":"Assembly Line Worker",
+        "years":"Aug 2016 - March 2017",
+        "description":"Assembled machinery in a collaborative and fast paced work environment while maintaining a clean and organized workstation and safe work practices.",
+        "description2": "Operated cranes, hoists, and other heavy machinery.",
+        "description3": "Built generator engines, carburetors, oil pans, etc.",
+        "description4": " "
+      
+      },
+      {
+        "company":"Nortech Systems Inc.",
+        "title":"Machine Operator",
+        "years":"October 2015 - July 2016",
+        "description":"Examined PC boards for any defects, faulty components, insufficient soldering, and blueprint discrepancies.",
+        "description2": "Set-up, programmed, and operated “pick and place” SMT machines.",
+        "description3": "Directed inspection and support staff for any machine issues and machine changeovers.",
+        "description4": " "
+      
+      },
+      {
+        "company":"Boston Scientific",
+        "title":"Machine Operator",
+        "years":"Aug 2013 - Feb 2015",
+        "description":"Operated silicone injection molding and various other machines for medical devices.",
+        "description2": "Directed other operators on when a model change over would occur.",
+        "description3": "Examined medical device parts and products for any flaws or imperfections.",
+        "description4": "Logged and tracked information into computer software for traceability."
+      
       }
     ],
     "skills":[

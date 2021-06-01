@@ -37,6 +37,9 @@ class Resume extends Component {
             <span>&bull;</span> <em className="date">{work.years}</em>
           </p>
           <p>{work.description}</p>
+          {work.description2 ?  <p>{work.description2}</p> : null}
+          {work.description3 ?  <p>{work.description3}</p> : null}
+          {work.description4 ?  <p>{work.description4}</p> : null}
         </div>
       );
     });
@@ -68,7 +71,7 @@ class Resume extends Component {
             <div className="nine columns main-col">{work}</div>
           </div>
         </Slide>
-        
+
         <Slide left duration={1300}>
           <div className="row education">
             <div className="three columns header-col">
